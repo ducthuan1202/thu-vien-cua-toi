@@ -15,7 +15,15 @@
 dòng kẻ ngang
 _ _ _
 
+Hình ảnh
+![Node JS](images/nodejs.png)
 [link liên kết](http://ducthuan.net)
+
+Table
+STT  | Họ Tên | Email
+--- | --- | ---
+1  | Nguyen Duc Thuan | ducthuan1202@gmail.com
+1  | Trieu Thi Huyen Trang | huyentrang@gmail.com
 
 `định dạng code`
 
