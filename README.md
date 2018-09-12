@@ -43,6 +43,9 @@ Danh sách
 
 `định dạng code`
 
+```
+[link icons](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+```
 Định dạng Javascript
 ```js
 var demo = function(){
@@ -83,7 +86,7 @@ Checkbox
 
 Ghi chú nổi bật
 
->> Trăm năm trong cõi người ta<br/>Chữ tài, chữ mệnh khéo là ghét nhau
+> Trăm năm trong cõi người ta<br/>Chữ tài, chữ mệnh khéo là ghét nhau
 
 
 <details>
