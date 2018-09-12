@@ -12,7 +12,10 @@
 
 ***Chữ in nghiêng + đậm***
 
-dòng kẻ ngang
+Dòng kẻ ngang nhỏ
+---
+
+Dòng kẻ ngang to
 _ _ _
 
 Hình ảnh
@@ -21,12 +24,22 @@ Hình ảnh
 Liên kết
 [ducthuan.net](http://ducthuan.net)
 
-Table
+Bảng dữ liệu
 
 STT  | Họ Tên | Email
 ---|--- |---
 1  | Nguyen Duc Thuan | ducthuan1202@gmail.com
 1  | Trieu Thi Huyen Trang | huyentrang@gmail.com
+
+Danh sách
+* Con 1
+    * Cháu 1
+    * Cháu 2
+    * Cháu 3
+* Con 2
+    * Cháu 1
+    * Cháu 2
+    * Cháu 3
 
 `định dạng code`
 
@@ -41,8 +54,11 @@ STT  | Họ Tên | Email
 </details>
 
 Hotkey: 
+
 <kbd>Đ</kbd><kbd>Ứ</kbd><kbd>C</kbd> <kbd>T</kbd><kbd>H</kbd><kbd>U</kbd><kbd>Ậ</kbd><kbd>N</kbd>
 
-Icon: :smile: :heart:
+Icon: 
+
+:smile: :heart:
 
 [link icons](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
