@@ -61,9 +61,9 @@ body{
 Đánh dấu thay đổi
 ```diff
 body{
--    padding: 0;    // bỏ dòng này
-    margin: 0;      // thêm dòng này
-    display: table; // thêm dòng này
+-   padding: 0;
+    margin: 0;
++   display: table;
 }
 ```
 
