@@ -19,7 +19,7 @@ Dòng kẻ ngang to
 _ _ _
 
 Hình ảnh
-![Node JS](images/nodejs.png "Tiêu đề của ảnh")
+![Node JS](images/nodejs.png | width=100 "Tiêu đề của ảnh")
 
 Liên kết
 [ducthuan.net](http://ducthuan.net)
