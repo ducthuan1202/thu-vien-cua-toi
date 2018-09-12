@@ -41,11 +41,12 @@ Danh sách
     * Cháu 2
     * Cháu 3
 
-`định dạng code`
+### Định dạng
 
 ```
 [link icons](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 ```
+
 Định dạng Javascript
 ```js
 var demo = function(){
