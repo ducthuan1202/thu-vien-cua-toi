@@ -12,8 +12,7 @@
 
 ***Chữ in nghiêng + đậm***
 
-Dòng kẻ ngang nhỏ
-
+Dòng kẻ ngang nhỏ tự động in đậm cho dòng chữ trên  (như h1, và h2)
 ---
 
 Dòng kẻ ngang to
