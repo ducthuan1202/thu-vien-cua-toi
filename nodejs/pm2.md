@@ -37,4 +37,4 @@ pm2 restart app_name
 pm2 delete app_name
 ```
 
-[Về trang chủ](../README.md")
+[Về trang chủ](/)
