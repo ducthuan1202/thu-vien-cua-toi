@@ -43,11 +43,29 @@ Danh sách
 
 `định dạng code`
 
+Định dạng Javascript
 ```js
 var demo = function(){
     return 10;
 }
 ```
+
+Định dạng code CSS
+```css
+body{
+    padding: 0;
+    margin: 0;    
+}
+```
+
+Đánh dấu thay đổi
+```diff
+body{
+-    padding: 0;
++    margin: 0;    
+}
+```
+
 
 - [ ] Checkbox unchecked
 - [x] Checkobx checked
