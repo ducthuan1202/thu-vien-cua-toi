@@ -12,7 +12,7 @@
 
 ***Chữ in nghiêng + đậm***
 
-Dòng kẻ ngang nhỏ tự động in đậm cho dòng chữ trên  (như h1, và h2)
+Dòng kẻ ngang nhỏ tự động in đậm cho dòng chữ trên như h2
 ---
 
 Dòng kẻ ngang to
@@ -47,6 +47,15 @@ Danh sách
 ```js
 var demo = function(){
     return 10;
+}
+```
+
+Định dạng JSON
+```json
+{
+    "id": 1,
+    "name": "Nguyen Duc Thuan",
+    "email": "ducthuan1202@gmail.com"
 }
 ```
 
