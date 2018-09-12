@@ -83,9 +83,10 @@ Checkbox
 
 Ghi chú nổi bật
 
-> Trăm năm trong cõi người ta
-
-> Chữ tài, chữ mệnh khéo là ghét nhau
+>> 
+Trăm năm trong cõi người ta
+Chữ tài, chữ mệnh khéo là ghét nhau
+>>
 
 <details>
     <summary>Ấn để xem</summary>
