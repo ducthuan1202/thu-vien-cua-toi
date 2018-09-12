@@ -19,7 +19,7 @@ Dòng kẻ ngang to
 _ _ _
 
 Hình ảnh
-![Node JS](images/nodejs.png "Tiêu đề của ảnh" =100x80)
+![Node JS](images/nodejs.png "Tiêu đề của ảnh")
 
 Liên kết
 [ducthuan.net](http://ducthuan.net)
@@ -42,6 +42,12 @@ Danh sách
     * Cháu 3
 
 `định dạng code`
+
+```js
+var demo = function(){
+    return 10;
+}
+```
 
 - [ ] Checkbox unchecked
 - [x] Checkobx checked
