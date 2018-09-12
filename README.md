@@ -30,8 +30,8 @@ STT  | Họ Tên | Email
 
 `định dạng code`
 
-[ ] Checkbox unchecked
-[x] Checkobx checked
+- [ ] Checkbox unchecked
+- [x] Checkobx checked
 
 > Ghi chú nổi bật
 
