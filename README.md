@@ -1,4 +1,4 @@
-# Tiêu Đề h1
+# CƠ BẢN CÁC CÁCH BIỂU DIỄN TRONG FILE README.md
 
 ## Tiêu Đề h2
 
@@ -76,11 +76,15 @@ body{
 }
 ```
 
+Checkbox
 
-- [ ] Checkbox unchecked
-- [x] Checkobx checked
+- [ ] Tôi không đồng ý.
+- [x] Tôi đã đọc và đồng ý với điều khoản.
 
-> Ghi chú nổi bật
+Ghi chú nổi bật
+
+> Trăm năm trong cõi người ta
+> Chữ tài, chữ mệnh khéo là ghét nhau
 
 <details>
     <summary>Ấn để xem</summary>
